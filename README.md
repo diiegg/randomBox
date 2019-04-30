@@ -8,7 +8,15 @@ Download to the prefer location.
 
 ## Usage.
 
-Open the terminal and move tot he download folder, run the app using "pyton randombox.py," to change the flag to "true" call the app "pyton randombox.py --f"
+Open the terminal and move tot he download folder, run the app using
+```
+pyton randombox.py
+```
+
+to change the flag to "true"
+```
+pyton randombox.py --f
+```
 
 ## Contributing.
 
